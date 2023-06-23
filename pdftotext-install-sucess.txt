@@ -1,0 +1,14 @@
+   82  sudo apt install libpython3.10-dev
+   83  pip install pdftotext
+   84  sudo apt install libpoppler-cpp-dev ---- this alone is enough, if after installation its not working then reactivate the environment
+   85  df -h
+   86  ls
+   87  pip install pdftotext
+   88  pip install --upgrade pip
+   89  pip install --upgrade setuptools wheel
+   90  pip install pdftotext
+   91  sudo apt install libpoppler-cpp-dev
+   92  apt install libpoppler-cpp-dev
+   93  pip --verbose install pdftotext
+   94  sudo apt-get install build-essential
+   95  pip --verbose install pdftotext
